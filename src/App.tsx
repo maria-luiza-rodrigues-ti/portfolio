@@ -1,5 +1,5 @@
 import { ChevronDown } from "lucide-react";
-import { ToggleThemeButton } from "./components/toggle-theme";
+import { ToggleThemeButton } from "./components/toggle-theme-button";
 
 function App() {
   return (
