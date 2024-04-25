@@ -1,0 +1,76 @@
+{
+  "tecnologies": [
+    {
+      "id": 1,
+      "name": "HTML",
+      "image": "./src/assets/images/icon-html.svg",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "image": "./src/assets/images/icon-css.svg",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+    },
+    {
+      "id": 3,
+      "name": "JAVASCRIPT",
+      "image": "./src/assets/images/icon-javascript.svg",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    },
+    {
+      "id": 4,
+      "name": "WORDPRESS",
+      "image": "./src/assets/images/icon-wordpress.svg",
+      "url": "https://wordpress.org/"
+    },
+    {
+      "id": 5,
+      "name": "REACT",
+      "image": "./src/assets/images/icon-react.svg",
+      "url": "https://reactjs.org/"
+    },
+    {
+      "id": 6,
+      "name": "VTEX",
+      "image": "./src/assets/images/icon-vtex.svg",
+      "url": "https://vtex.io/"
+    },
+    {
+      "id": 7,
+      "name": "TYPESCRIPT",
+      "image": "./src/assets/images/icon-typescript.svg",
+      "url": "https://www.typescriptlang.org/"
+    },
+    {
+      "id": 8,
+      "name": "TAILWIND",
+      "image": "./src/assets/images/icon-tailwindcss.svg",
+      "url": "https://tailwindcss.com/"
+    },
+    {
+      "id": 9,
+      "name": "SASS",
+      "image": "./src/assets/images/icon-sass.svg",
+      "url": "https://sass-lang.com/"
+    },
+    {
+      "id": 10,
+      "name": "LESS",
+      "image": "./src/assets/images/icon-less.png",
+      "url": "http://lesscss.org/"
+    },
+    {
+      "id": 11,
+      "name": "NEXTJS",
+      "image": "./src/assets/images/icon-nextjs.svg",
+      "url": "https://nextjs.org/"
+    },
+    {
+      "id": 12,
+      "name": "JQUERY",
+      "image": "./src/assets/images/icon-jquery.svg",
+      "url": "https://jquery.com/"
+    }
+  ]
+}
