@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <header className="flex item justify-between max-w-[80rem] mx-auto py-6 px-4 md:px-0">
-        <h1 className="font-bold text-accent-content text-lg">
+        <h1 className="pb-1 font-bold text-accent-content text-lg">
           Maria Luiza Rodrigues
         </h1>
         <nav>
@@ -14,7 +14,7 @@ function App() {
             <li className="group relative">
               <a
                 href="#"
-                className=" text-sm font-semibold text-accent-foreground inline-block transition-all after:absolute after:-bottom-1 after:left-1/2 after:-translate-x-1/2 after:block after:content-[''] after:bg-accent-foreground after:w-0 after:h-[2px] after:transition-all hover:after:w-full"
+                className="pb-1 text-sm font-semibold text-accent-content inline-block transition-all after:absolute after:-bottom-1 after:left-1/2 after:-translate-x-1/2 after:block after:content-[''] after:bg-accent-content after:w-0 after:h-[2px] after:transition-all hover:after:w-full"
               >
                 Home
               </a>
@@ -22,7 +22,7 @@ function App() {
             <li className="group relative">
               <a
                 href="#"
-                className=" text-sm font-semibold text-accent-foreground inline-block transition-all after:absolute after:-bottom-1 after:left-1/2 after:-translate-x-1/2 after:block after:content-[''] after:bg-accent-foreground after:w-0 after:h-[2px] after:transition-all hover:after:w-full"
+                className="pb-1 text-sm font-semibold text-accent-content inline-block transition-all after:absolute after:-bottom-1 after:left-1/2 after:-translate-x-1/2 after:block after:content-[''] after:bg-accent-content after:w-0 after:h-[2px] after:transition-all hover:after:w-full"
               >
                 Work
               </a>
@@ -30,7 +30,7 @@ function App() {
             <li className="group relative">
               <a
                 href="#"
-                className=" text-sm font-semibold text-accent-foreground inline-block transition-all after:absolute after:-bottom-1 after:left-1/2 after:-translate-x-1/2 after:block after:content-[''] after:bg-accent-foreground after:w-0 after:h-[2px] after:transition-all hover:after:w-full"
+                className="pb-1 text-sm font-semibold text-accent-content inline-block transition-all after:absolute after:-bottom-1 after:left-1/2 after:-translate-x-1/2 after:block after:content-[''] after:bg-accent-content after:w-0 after:h-[2px] after:transition-all hover:after:w-full"
               >
                 About
               </a>
