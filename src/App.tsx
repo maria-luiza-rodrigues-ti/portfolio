@@ -66,7 +66,7 @@ function App() {
               the technologies that I work with
             </strong>
           </h3>
-          <div className="flex justify-center">
+          <div className="flex justify-center w-11/12 mx-auto">
             <TechnologiesSlider />
           </div>
         </section>
